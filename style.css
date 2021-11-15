@@ -1,0 +1,47 @@
+*{
+  /* border:1px solid black;*/
+    margin: 0;
+    color: black!important;
+}
+#logoimg{
+    width: 150px;
+    height: 150px;
+}
+#imgMenu{
+    width: 30px;
+    height: 30px;
+}
+.dropdown:hover>.dropdown-menu{
+    display:block;
+}
+header{
+    background-color: white;
+}
+.carousel-inner{
+    height: 600px!important;
+}
+#div1{
+    background-image: url('https://i.ibb.co/v4LNgfS/Whats-App-Image-2021-11-15-at-2-50-40-PM.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+}
+#div2{
+    background-image: url('https://i.ibb.co/ymzPZMP/Whats-App-Image-2021-11-15-at-2-52-16-PM.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-position-y: center;
+}
+#div3{
+    background-image: url('https://i.ibb.co/NSq04X8/Whats-App-Image-2021-11-15-at-2-52-43-PM.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-position-y: center;
+}
