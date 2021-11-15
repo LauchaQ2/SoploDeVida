@@ -45,3 +45,35 @@ header{
     background-position: center;
     background-position-y: center;
 }
+#card1{
+    background-image: url('https://i.ibb.co/pK0XLhD/255271424-4341281539254568-306449819177689884-n.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-position-y: 25%;
+}
+#card2{
+    background-image: url('https://i.ibb.co/qDF4rZd/Whats-App-Image-2021-11-15-at-4-29-19-PM.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-position-y: top;
+}
+#card3{
+    background-image: url('https://i.ibb.co/8MvyjL5/Whats-App-Image-2021-11-15-at-4-31-00-PM.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-position-y: top;
+}
+#card4{
+    background-image: url('https://i.ibb.co/7tBr4Hk/Whats-App-Image-2021-11-15-at-4-29-18-PM.jpg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-position-y: top;
+}
