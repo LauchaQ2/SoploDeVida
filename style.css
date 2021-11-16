@@ -96,6 +96,7 @@ header{
 }
 a{
     text-decoration: none!important;
+    height: 100%;
 }
 #footerColor{
     background: linear-gradient(to bottom, #f7ba8f, #ffa69e)!important;
