@@ -1,7 +1,8 @@
 *{
-  /* border:1px solid black;*/
+  /*border:1px solid black;*/
     margin: 0;
     color: black!important;
+    font-family: 'Antonio', sans-serif;
 }
 #logoimg{
     width: 150px;
@@ -76,4 +77,20 @@ header{
     background-size: cover;
     background-position: center;
     background-position-y: top;
+}
+.list-group{
+    width: 100%!important;
+}
+#logofooter{
+    width: 200px;
+    height: 100px;
+}
+.list-group-item{
+    text-align: center;
+    color: white!important;
+    font-family: Antonio;
+}
+.redes{
+    width: 50px;
+    height: 50px;
 }
